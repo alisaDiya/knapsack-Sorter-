@@ -1,0 +1,8 @@
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\bin\Debug\kanpsack-CT.exe.config
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\bin\Debug\kanpsack-CT.exe
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\bin\Debug\kanpsack-CT.pdb
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\obj\Debug\kanpsack-CT.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\obj\Debug\kanpsack-CT.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\obj\Debug\kanpsack-CT.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\obj\Debug\kanpsack-CT.exe
+C:\Users\alisa\source\repos\kanpsack-CT\kanpsack-CT\obj\Debug\kanpsack-CT.pdb
